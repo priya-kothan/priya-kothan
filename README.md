@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @priya-kothan
+- 👋 Hi, I’m PriyaManikandakothan
 - 👀 I’m interested in ... 
         React JS
         Javascript
         Nodejs
+        CSS
+        HTML
 - 🌱 I’m currently learning ...
-        German 
+        ---
 - 💞️ I’m looking to collaborate on ... 
         full day with my family
 - 📫 How to reach me ...
