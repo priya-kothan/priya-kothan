@@ -1,6 +1,7 @@
 - 👋 Hi, I’m PriyaManikandakothan
 - 👀 I’m interested in ... 
         React JS
+        Vue JS
         Javascript
         Nodejs
         CSS
